@@ -1,4 +1,4 @@
-![nerd](https://github.com/user-attachments/assets/6af1efeb-29b6-4ded-9a70-d19fcaa6e46a)
+
 
 # ☕ Podcast - Café com Java – Dicas, debates e códigos. Tudo no universo Java   
 
