@@ -1,0 +1,1 @@
+<img src="../assets/img/imagem-capa.png" alt="Descrição da imagem" width="300" style="display: block; margin: auto;">
